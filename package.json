@@ -1,0 +1,22 @@
+{
+  "name": "js_hello",
+  "version": "1.0.0",
+  "description": "This project is to test html and js working together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/androzes/js_hello.git"
+  },
+  "author": "androzes@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/androzes/js_hello/issues"
+  },
+  "homepage": "https://github.com/androzes/js_hello#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
